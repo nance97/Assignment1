@@ -5,4 +5,6 @@
 - [Processori](/processori.md)
 - [Schede madri](/schede_madri.md)
 
+## Periferiche
+
 *Elettronica Padovana*
