@@ -2,3 +2,9 @@
 
 #Inventario
 - [Processori](/processori.md)
+
+
+
+
+
+*Elettronica Padovana*
