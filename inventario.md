@@ -1,10 +1,7 @@
 2042321 2042381
 
-#Inventario
+# Inventario
 - [Processori](/processori.md)
-
-
-
-
+- [Schede madri](/schede_madri.md)
 
 *Elettronica Padovana*
